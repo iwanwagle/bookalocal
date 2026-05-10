@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "explore": "Explore",
+    "guides": "Guides",
+    "about": "About",
+    "login": "Log in",
+    "signup": "Sign up",
+    "dashboard": "Dashboard",
+    "messages": "Messages",
+    "wishlist": "Wishlist",
+    "settings": "Settings",
+    "logout": "Log out",
+    "bookings": "My Bookings"
+  },
+  "home": {
+    "hero_title": "Explore Nepal with",
+    "hero_title_highlight": "Local Experts",
+    "hero_subtitle": "Book verified local guides for trekking, cultural tours, photography, and more. Pay only 15% online.",
+    "search_placeholder": "Search experiences…",
+    "city_placeholder": "Destination",
+    "find_guides": "Find Guides",
+    "featured_title": "Featured Experiences",
+    "how_it_works": "How Bookalocal works",
+    "become_guide": "Become a Guide",
+    "featured_subtitle": "Explore Nepal's diverse offerings with expert local guides",
+    "popular_label": "Popular:"
+  },
+  "listing": {
+    "book_now": "Book now",
+    "per_day": "/day",
+    "per_hour": "/hr",
+    "package": "package",
+    "persons": "Persons",
+    "date": "Date",
+    "total": "Total",
+    "pay_now": "Pay online now (15%)",
+    "pay_guide": "Pay guide on the day (85%)",
+    "reviews": "Reviews",
+    "no_reviews": "No reviews yet",
+    "leave_review": "Leave a review",
+    "includes": "What's included",
+    "excludes": "What's not included",
+    "cancellation": "Cancellation policy",
+    "message_guide": "Message Guide",
+    "availability": "Availability"
+  },
+  "booking": {
+    "confirmed": "Booking confirmed!",
+    "ref": "Booking reference",
+    "next_steps": "What happens next?",
+    "view_bookings": "View my bookings"
+  },
+  "auth": {
+    "login_title": "Welcome back",
+    "register_title": "Create your account",
+    "email": "Email address",
+    "password": "Password",
+    "name_first": "First Name",
+    "name_last": "Last Name",
+    "traveler": "I'm a Traveler",
+    "guide": "I'm a Guide",
+    "forgot": "Forgot password?",
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "google": "Continue with Google",
+    "have_account": "Already have an account?",
+    "no_account": "Don't have an account?"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "bookings": "Bookings",
+    "wishlist": "Wishlist",
+    "no_bookings": "No bookings yet",
+    "explore": "Find Guides"
+  }
+}
