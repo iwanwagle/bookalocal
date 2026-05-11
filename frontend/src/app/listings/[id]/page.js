@@ -5,14 +5,14 @@ import { useQuery } from '@tanstack/react-query';
 import Link from 'next/link';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
-import Navbar from '../../../../components/layout/Navbar';
-import Footer from '../../../../components/layout/Footer';
-import { listingsAPI, bookingsAPI, reviewsAPI } from '../../../../utils/api';
-import AvailabilityCalendar from '../../../../components/common/AvailabilityCalendar';
-import { useAuthStore } from '../../../../context/authStore';
+import Navbar from '../../../components/layout/Navbar';
+import Footer from '../../../components/layout/Footer';
+import { listingsAPI, bookingsAPI, reviewsAPI } from '../../../utils/api';
+import AvailabilityCalendar from '../../../components/common/AvailabilityCalendar';
+import { useAuthStore } from '../../../context/authStore';
 import toast from 'react-hot-toast';
 import { motion } from 'framer-motion';
-import { useCurrency } from '../../../../context/currencyContext';
+import { useCurrency } from '../../../context/currencyContext';
 
 function StarDisplay({ rating, size = 'md' }) {
   const s = size === 'sm' ? 'w-3.5 h-3.5' : 'w-5 h-5';
